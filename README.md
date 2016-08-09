@@ -17,3 +17,7 @@ Then open up your _SDK Manager_ and install **Google Play Services** and **Googl
 You should have generated a **google-services.json** file with Firebase website, place it at: **_/YourProject/app_**
 
 That's it, you should be ready to code!
+
+# Important note
+
+The is not using any kind of authentification, thus your firebase server should accept every connection. Of course this is not secure, this was just for the example.
