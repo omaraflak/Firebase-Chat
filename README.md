@@ -20,4 +20,4 @@ That's it, you should be ready to code!
 
 # Important note
 
-The is not using any kind of authentification, thus your firebase server should accept every connection. Of course this is not secure, this was just for the example.
+The app is not using any kind of authentification, thus your firebase server should accept every connection. Of course this is not secure, this was just for the example.
