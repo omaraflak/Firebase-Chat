@@ -12,7 +12,7 @@ In your build.gradle Module file, add:
 
     compile 'com.google.firebase:firebase-database:9.2.1'
   
-Then open up your -SDK Manager- and install **Google Play Services** and **Google Repository** (both are located under **-Extras-**).
+Then open up your -SDK Manager- and install **Google Play Services** and **Google Repository** (both are located under **_Extras_**).
 
 You should have generated a **google-services.json** file with Firebase website, place it at: */YourProject/app*
 
