@@ -6,14 +6,14 @@ This Google I/O conference may be helpful if you're learning like me: https://ww
 
 In your build.gradle Project file, add:
 
-  classpath 'com.google.gms:google-services:3.0.0'
+    classpath 'com.google.gms:google-services:3.0.0'
   
 In your build.gradle Module file, add:
 
-  compile 'com.google.firebase:firebase-database:9.2.1'
+    compile 'com.google.firebase:firebase-database:9.2.1'
   
-Then open up your SDK Manager and install Google Play Services and Google Repository (both are located under EXtras).
+Then open up your -SDK Manager- and install **Google Play Services** and **Google Repository** (both are located under **-Extras-**).
 
-You should have generated a google-services.json file with Firebase website, place it at: /YourProject/app
+You should have generated a **google-services.json** file with Firebase website, place it at: */YourProject/app*
 
 That's it, you should be ready to code!
