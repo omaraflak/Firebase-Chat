@@ -14,6 +14,6 @@ In your build.gradle Module file, add:
   
 Then open up your _SDK Manager_ and install **Google Play Services** and **Google Repository** (both are located under **_Extras_**).
 
-You should have generated a **google-services.json** file with Firebase website, place it at: */YourProject/app*
+You should have generated a **google-services.json** file with Firebase website, place it at: **_/YourProject/app_**
 
 That's it, you should be ready to code!
