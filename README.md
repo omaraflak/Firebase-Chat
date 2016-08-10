@@ -10,7 +10,7 @@ In your build.gradle Project file, add:
   
 In your build.gradle Module file, add:
 
-    compile 'com.google.firebase:firebase-database:9.2.1'
+    compile 'com.google.firebase:firebase-database:9.4.0'
   
 Then open up your _SDK Manager_ and install **Google Play Services** and **Google Repository** (both are located under **_Extras_**).
 
