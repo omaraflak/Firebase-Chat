@@ -10,8 +10,9 @@ In your build.gradle Project file, add:
   
 In your build.gradle Module file, add:
 
-    compile 'com.google.firebase:firebase-database:9.4.0'
-  
+    apply plugin: 'com.google.gms.google-services' // top of the file
+    compile 'com.google.firebase:firebase-database:9.4.0' // dependencies
+
 Then open up your _SDK Manager_ and install **Google Play Services** and **Google Repository** (both are located under **_Extras_**).
 
 You should have generated a **google-services.json** file with Firebase website, place it at: **_/YourProject/app_**
